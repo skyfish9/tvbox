@@ -1,5 +1,5 @@
 {
-	"spider": "../jar/HeChengChaXiu.jar",
+	"spider": "http://sharp-downtown.surge.sh/HeChengChaXiu.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
